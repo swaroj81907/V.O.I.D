@@ -1,15 +1,15 @@
-##REQUIRMENTS
+## REQUIRMENTS
 
-remane the file in ** __pycache__ ** inside that a file is there named ** collection.cpython-313 ** rename this to **  collection.cpython-313.pyc ** 
+remane the file in  __pycache__  inside that a file is there named ** collection.cpython-313 ** rename this to **  collection.cpython-313.pyc ** 
 
-##Dependencies
+## Dependencies
 
-<------------------------------------> 
-   <=========requirments========>
-        **  colorama **
-        **   Flask   **
+# <------------------------------------> 
+#    <=========requirments========>
+            colorama 
+             Flask   
 
-<------------------------------------>
+# <------------------------------------>
 
 ## 🔐 AI Credentials & Configuration
 
