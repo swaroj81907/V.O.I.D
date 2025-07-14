@@ -14,19 +14,19 @@ To use the AI features in this project, you must configure the credentials for t
 
 You will need an **API Key** from a supported AI provider
 
-##Creaters
+## Creaters
 
-##India 
+India 
 **Swaroj(owner /  dev)**
 
-#indonesia
+indonesia
 **Roan(co-dev)**
 
-#America
+America
 **Lisa(UI dev)**
 **Emma(UI dev)**
 
-##Ukrain
+Ukrain
 **Yuri(Tester)**
 
 
